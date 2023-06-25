@@ -1,1 +1,1 @@
-# .github
+# E-Commerce Template Repositories
