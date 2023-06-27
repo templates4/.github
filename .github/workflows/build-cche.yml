@@ -55,7 +55,7 @@ jobs:
   terraform:
    - name: Cache
      with:
-      cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}s: actions/cache@v1.2.1
+      cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }} actions/cache@v1.2.1
      
       # A directory to store and save the cache
       path: ~./cache
