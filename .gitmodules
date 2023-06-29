@@ -1,0 +1,35 @@
+[submodule "smartstore"]
+	path = ecommerce/smartstore
+	url = https://github.com/smartstore/smartstore
+	branch = main
+[submodule "Umbraco"]
+	path = Umbraco
+	url = https://github.com/umbraco/Umbraco-CMS
+	branch = release/11.4.1
+[submodule "Kooboo"]
+	path = ecommerce/platforms/Kooboo
+	url = https://github.com/templates4/Kooboo
+[submodule "Orchard"]
+	path = ecommerce/platforms/Orchard
+	url = https://github.com/templates4/Orchard
+[submodule "Piranha"]
+	path = ecommerce/platforms/Piranha
+	url = https://github.com/templates4/piranha
+[submodule "N2"]
+	path = ecommerce/platforms/N2
+	url = https://github.com/templates4/n2
+[submodule "Nop"]
+	path = ecommerce/platforms/Nop
+	url = https://github.com/templates4/Nop
+[submodule "SuperFlexiUI"]
+	path = ecommerce/platforms/SuperFlexiUI
+	url = https://github.com/templates4/SuperFlexiUI
+[submodule "Composite"]
+	path = ecommerce/platforms/Composite
+	url = https://github.com/templates4/Composite
+[submodule "VirtoCommerce"]
+	path = ecommerce/platforms/VirtoCommerce
+	url = https://github.com/templates4/VirtoCommerce
+[submodule "GrandNode"]
+	path = ecommerce/platforms/GrandNode
+	url = https://github.com/templates4/grandnode

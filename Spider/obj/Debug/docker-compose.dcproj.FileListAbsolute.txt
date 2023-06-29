@@ -1,0 +1,1 @@
+/Users/owner/templates4/Spider/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;netcoreapp2.1</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' != 'netcoreapp3.1'">
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+<ItemGroup>
+  <ProjectReference Include="Nop\src\Nop.Core\Nop.Core.csproj" />
+  <ProjectReference Include="Nop\src\Nop.Data\Nop.Data.csproj" />
+  <ProjectReference Include="Nop\src\Nop.Services\Nop.Services.csproj" />
+  <ProjectReference Include="Nop\src\Nop.Web.Framework\Nop.Web.Framework.csproj" />
+  <ProjectReference Include="Nop\src\Nop.Web\Nop.Web.csproj" />
+  <ProjectReference Include="Nop\src\Nop.WebApi\Nop.WebApi.csproj" />
+  <ProjectReference Include="Nop\src\Nop.WebHost\Nop.WebHost.csproj" />
+  <ProjectReference Include="Nop\src\Nop.Web.Framework\Nop.Web.Framework.csproj" />
+</ItemGroup>
+</Project>

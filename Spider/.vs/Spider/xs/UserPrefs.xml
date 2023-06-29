@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{DDF7CDC0-4D46-4659-89CC-8FBB03B50472}|Default">
+  <MonoDevelop.Ide.ItemProperties.WGetCleanup FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WGet.Tests/UnitTest1.cs">
+    <Files>
+      <File FileName="WGet.Tests/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spider" expanded="True">
+            <Node name="WGet.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
